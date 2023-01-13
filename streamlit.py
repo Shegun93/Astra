@@ -1,4 +1,3 @@
-import numpy as np
 from tensorflow.keras import models, layers
 from tensorflow import keras
 import tensorflow as tf
