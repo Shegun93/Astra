@@ -2,8 +2,7 @@ from tensorflow.keras import models, layers
 from tensorflow import keras
 import tensorflow as tf
 import streamlit as st
-
-
+import numpy as np
 model =keras.models.load_model('Model')
 def recommendation(sample):
     sample={name: tf.convert_to_tensor([value]) for name, value in list(sample.items())}
