@@ -5,4 +5,3 @@ protobuf==3.19.4
 sklearn==0.0
 streamlit==1.10.0
 tensorflow==2.7
-python-3.9
