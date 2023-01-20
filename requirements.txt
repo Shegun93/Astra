@@ -4,4 +4,4 @@ pandas==1.1.5
 protobuf==3.19.4
 sklearn==0.0
 streamlit==1.10.0
-tensorflow==2.7
+tensorflow==2.1.0
